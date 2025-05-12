@@ -23,7 +23,7 @@ export default function Header() {
     <>
       <nav className="navbar navbar-expand-lg bg-warning"> {/* Orange background */}
         <Container>
-          <a className="navbar-brand text-dark" href="#">InfoLabz Cookinggggg</a> {/* Changed to text-dark */}
+          <a className="navbar-brand text-dark" href="#">InfoLabz Cooking</a> {/* Changed to text-dark */}
           <button className="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarSupportedContent" aria-controls="navbarSupportedContent" aria-expanded="false" aria-label="Toggle navigation">
             <span className="navbar-toggler-icon" />
           </button>
